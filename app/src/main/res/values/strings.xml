@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sports Equipment</string>
+    <string name="labelCode">Code</string>
+    <string name="labelName">Item name</string>
+    <string name="labelType">Type of sport</string>
+    <string name="labelBack">Go back</string>
+    <string name="labelPhoto">Item photo</string>
+    <string name="labelAddNew">Add new item</string>
+    <string name="labelUpdate">Update item</string>
+    <string name="labelDelete">Delete item</string>
+    <string name="labelTakephoto">Take photo</string>
+    <string name="labelDesc">Item description</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_sport">
+        <item>Aquatic sports</item>
+        <item>Ball sports</item>
+        <item>Cycling</item>
+        <item>Fitness</item>
+        <item>Snow sports</item>
+    </string-array>
+</resources>
